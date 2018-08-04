@@ -1,5 +1,6 @@
 # Project: Log Analysis
 ================================
+
 This is the third project in the Udacity Full Stack Nanodegree. The purpose of this project is to build a mock internal reporting tool for a news website and in the process answer the following questions about the data in news database:
 
 What are the most popular three articles of all time?
