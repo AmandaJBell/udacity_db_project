@@ -22,14 +22,14 @@ How to Run Project
 **2.** Setup the VM by typing the following into terminal:
     ```vagrant up```
 
-**2.** Login to the VM by typing the following into terminal:
+**3.** Login to the VM by typing the following into terminal:
     ```vagrant ssh```
     
-**3.** Get to the right folder typing the following into terminal:
+**4.** Get to the right folder typing the following into terminal:
     ```cd /vagrant```
 
-**4.** Setup the database by typing the following into terminal:
+**5.** Setup the database by typing the following into terminal:
     ```psql -d news -f newsdata.sql;```
 
-**3.** Finally run the project by typing the following into terminal:
+**6.** Finally run the project by typing the following into terminal:
     ```python newsdb.py```
